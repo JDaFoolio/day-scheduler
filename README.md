@@ -1,5 +1,5 @@
 Description
-a simple calendar application that allows a user to save events for each hour of the day. It runs in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+A simple calendar application that allows the user to save events between 8AM-5PM for better scheduling and time management
 
 User Story
 - AS AN employee with a busy schedule
