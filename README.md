@@ -21,3 +21,4 @@ Acceptance Criteria
 - WHEN I refresh the page
 - THEN the saved events persist
 
+![05-third-party-apis-homework-demo](https://user-images.githubusercontent.com/43555160/150889311-bab9b791-cd20-4a97-b3c2-b7ddb6537984.gif)
