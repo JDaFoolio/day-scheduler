@@ -21,3 +21,4 @@ Acceptance Criteria
 - WHEN I refresh the page
 - THEN the saved events persist
 
+https://github.com/jdafoolio/day-scheduler/blob/master/assets/images/05-third-party-apis-homework-demo.gif
